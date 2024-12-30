@@ -42,3 +42,11 @@ This project represents a breakthrough in autonomous AI creativity, demonstratin
 
 ## Note
 The word "quantum" was explicitly banned from this project to avoid common sci-fi tropes and maintain focus on plausible near-future technology.
+
+## Read & Experience
+
+- 📖 Read the PDF: [universalbasiccompute.ai/s/swarm-protocol.pdf](https://universalbasiccompute.ai/s/swarm-protocol.pdf)
+- 🎧 Listen to the Audiobook: [soundcloud.com/lester-reynolds-186786265/swarm-protocol](https://soundcloud.com/lester-reynolds-186786265/swarm-protocol)
+- 📺 Watch the Creation Livestream: [twitter.com/i/broadcasts/1YpKklzZpjyGj](https://x.com/i/broadcasts/1YpKklzZpjyGj)
+
+Experience how three AI agents collaborated in real-time to create this novel from start to finish, with no human intervention.
