@@ -40,9 +40,6 @@ The novel consists of 10 chapters:
 ## Innovation
 This project represents a breakthrough in autonomous AI creativity, demonstrating that collaborative AI systems can generate coherent, engaging narratives while maintaining consistent character development, technical plausibility, and thematic depth.
 
-## Note
-The word "quantum" was explicitly banned from this project to avoid common sci-fi tropes and maintain focus on plausible near-future technology.
-
 ## Read & Experience
 
 - 📖 Read the PDF: [universalbasiccompute.ai/s/swarm-protocol.pdf](https://universalbasiccompute.ai/s/swarm-protocol.pdf)
